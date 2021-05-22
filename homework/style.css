@@ -1,0 +1,40 @@
+html {
+    font-family: 'Pangolin', cursive;
+    color: #a6d6d6;
+}
+body {
+    width: 80%;
+    margin: auto;
+    box-shadow: 0 0 10px 1 px rgba(0, 0, 0, 0.2);
+}
+a:hover {
+    color: rgb(6, 239, 247);
+    transition: 0.35s ease-in;
+}
+a {
+    font-size: 50px;
+    text-decoration: none;
+}
+p {
+    font-size: 32px;
+}
+.myClass {
+    background-size: 105%;
+    background-image: url(img/cs\ go.jpg);
+}
+.class1 {
+    background-size: 130%;
+    background-image: url(img/minecraft.jpg);
+}
+.class2 {
+    background-image: url(img/Portal\ 2.jpg);
+    background-size: 100%;
+}
+.class3 {
+    background-image: url(img/space.jpg);
+    background-size: auto;
+}
+.divBlock {
+ display: block;
+
+}
